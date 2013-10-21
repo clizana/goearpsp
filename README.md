@@ -22,4 +22,5 @@ F.A.Q.
 ======
 
 Q: This works?
+
 A: No, it doesn't. Goear changed the way they search/play songs so this is deprecated. The source code is for educational purposes only.
