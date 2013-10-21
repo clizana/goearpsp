@@ -1,0 +1,46 @@
+Guia rapida para crear idiomas
+
+Cambia el nombre del idioma, debe estar en MAYUSCULA. (Toma el ingles o español como ejemplo),
+pon el nombre del autor (tuyo) y luego ingresalo en la carpeta langs.
+Lo más importante es que solamente debes modificar lo que está ENTRE _ y * además de no usar ninguno
+de esos dos caracteres para los nombres o la misma descripción del idioma.
+
+Ejemplo
+_AUTHOR=Tu nombre va aqui, puedes usar coma o numeros 23452 etc*
+
+
+Guia rapida para crear skins
+
+El formato de los skins es igual al de los idiomas, modifica todo ENTRE _ y *
+Los skins tienen dos partes, las obligatorias y las opcionales.
+
+Obligatorias
+
+_Author=clizana* //autor del skin
+_Name=default skin* //nombre del skin
+_fontColor=0,0,255* //color de la fuente
+_fontOverColor=200,200,30* //color de la fuente cuando el texto actual es activo
+_color1=0,24,20* //color usado para el comienzo del gradiente, comienzo de gradiente barra de descarga
+_color2=49,18,99* //color usado para el fin del gradiente y fin del gradiente de barra de descarga
+_color3=10,10,10* //color para lineas (una inferior donde se ponen estados y el borde del cuadro de descarga)
+
+Opcional
+
+Aqui elegimos el fondo de nuestro skin, debe ser UNO entre estas tres opciones:
+
+_bgFile=fondo.png* //si esta bgFile entonces pondra esa imagen en el fondo
+
+_bgColor=2,44,2* //si esta bg color pondra un color estandar de fondo
+
+_gradientBg=true* //si quieres que el fondo sea gradiente pones esto
+
+
+Finalmente podemos utilizar una fuente propia (en formato ttf) ubicandola en la carpeta de nuestro skin.
+
+_font=ravie.ttf* //si quieres puedes poner una fuente personalizada ttf
+
+
+Si deseas utilizar la fuente por defecto (verdana) borra la linea _font=* de tu skin y la fuente verdana
+se cargará de forma automática sin necesidad que la coloques tú.
+
+*Todos los colores están en RGB.

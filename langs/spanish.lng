@@ -1,0 +1,80 @@
+[Language]
+_NAME=SPANISH*
+_AUTHOR=clizana*
+
+_MENU1=Iniciar*
+_MENU2=Reproductor*
+_MENU3=Opciones*
+_MENU4=Actualizar*
+_MENU5=Acerca de*
+_MENU6=Salir*
+
+_OPC1=Idioma*
+_OPC2=Skin*
+_OPC3=Mostrar mensaje de copyright*
+_OPC4=Avisar cuando existan nuevas versiones*
+_OPC5=Volver*
+_OPC6=Guardar Cambios*
+
+_MSG1=Para descargar musica necesitas estar conectado a internet*
+_MSG2=Texto a buscar*
+_MSG3=No se encontraron resultados en la busqueda*
+_MSG4=Debes ingresar algo para buscar*
+_MSG5=No hay mas resultados*
+_MSG6=Cancion agregada!*
+_MSG7=Lista de descargas completa!*
+_MSG8A=Vas a descargar una lista de*
+_MSG8B=canciones y no se puede cancelar durante el proceso.*
+_MSG8C=¿Estas Seguro que deseas Iniciar la Descarga?*
+_MSG9=Descarga Completa!*
+_MSG10=Error creando el archivo de configuracion, no se guardaran los datos*
+_MSG11A=Reproducir cancion*
+_MSG11B=Detener*
+_MSG11C=Volver al menu principal*
+_MSG12=Debes estar conectado a internet para actualizar*
+_MSG13A=Existe una version nueva*
+_MSG13B=¿Deseas instalarlo?*
+_MSG14=Estas en la version mas actual*
+_MSG15=Para cambiar el skin debes cerrar el homebrew, Desea hacer esto ahora*
+
+_MSC1=Pagina*
+_MSC2=Generando preview*
+_MSC3=Opciones*
+_MSC4=Ayuda*
+_MSC5=Lista de descargas*
+_MSC6=Nombre del archivo*
+_MSC7=Descargando*
+_MSC8=Size*
+_MSC9=porciento*
+
+_ARTIST=Artista*
+_TITLE=Titulo*
+_ALBUM=Album*
+
+_BTNCR=Cruz*
+_BTNCI=Circulo*
+_BTNSQ=Cuadrado*
+_BTNTR=Triangulo*
+
+_YES=Si*
+_NO=No*
+
+_HLP1A=Buscar*
+_HLP1B=Descargar*
+_HLP1C=Vista previa de la cancion*
+_HLP1D=Ingresar texto para la busqueda*
+_HLP1E=Agregar cancion a la lista de descargas*
+_HLP1F=Descargar cancion/lista*
+_HLP1G=Pagina anterior*
+_HLP1H=Pagina siguiente*
+_HLP1I=Mostrar lista de descargas*
+
+_HLP2A=Creado por*
+_HLP2B=mas informacion en*
+
+_SKNAU=Autor del skin*
+_LNGAU=Autor del idioma*
+
+_CRMSG1=El autor no se hace responsable por el uso inapropiado de este homebrew.*
+_CRMSG2=Se les recuerda que podrian estar infringiendo leyes de propiedad intelectual presentes en la nacion que se utilice.*
+_CRMSG3=Teniendo esto en cuenta procede a utilizar el homebrew.*

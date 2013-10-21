@@ -1,0 +1,11 @@
+[Skin]
+_Author=DeViaNTe* //autor del skin
+_Name=GCrew Skin* //nombre del skin
+_fontColor=70,70,70* //color de la fuente
+_fontOverColor=175,20,20* //color de la fuente cuando el texto actual es activo
+_color1=170,170,170* //color usado para el comienzo del gradiente, comienzo de gradiente barra de descarga
+_color2=50,50,50* //color usado para el fin del gradiente y fin del gradiente de barra de descarga
+_color3=50,50,50* //color para lineas (una inferior donde se ponen estados y el borde del cuadro de descarga)
+
+//opcionales
+_bgFile=fondo.png* //si esta bgFile entonces pondra esa imagen en el fondo

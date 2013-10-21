@@ -1,0 +1,80 @@
+[Language]
+_NAME=ENGLISH*
+_AUTHOR=clizana*
+
+_MENU1=Start*
+_MENU2=Mp3 Player*
+_MENU3=Options*
+_MENU4=Update Homebrew*
+_MENU5=About*
+_MENU6=Exit*
+
+_OPC1=Language*
+_OPC2=Skin*
+_OPC3=Show copyright message*
+_OPC4=Let me know if there is a new version*
+_OPC5=Back*
+_OPC6=Save Changes*
+
+_MSG1=You must be connected to download music*
+_MSG2=Search text*
+_MSG3=No results were found in the search*
+_MSG4=You must enter something to search*
+_MSG5=No more results*
+_MSG6=Song added!*
+_MSG7=Download List Complete!*
+_MSG8A=You are going to download a list of*
+_MSG8B=songs and you can not cancel during the process.*
+_MSG8C=Are you sure you want to initiate the download?*
+_MSG9=Download Complete!*
+_MSG10=Error creating the config file, the changes have not been saved*
+_MSG11A=Play song*
+_MSG11B=Stop*
+_MSG11C=Back to the main menu*
+_MSG12=You must be connected to internet in order to update*
+_MSG13A=There is a new version*
+_MSG13B=Do you want to install it?*
+_MSG14=You are in the newest version*
+_MSG15=To change the skin, you need to close. Do you want to do this now?*
+
+_MSC1=Page*
+_MSC2=Loading preview*
+_MSC3=Options*
+_MSC4=Help*
+_MSC5=Download List*
+_MSC6=File name*
+_MSC7=Downloading*
+_MSC8=Size*
+_MSC9=percent*
+
+_ARTIST=Artist*
+_TITLE=Title*
+_ALBUM=Album*
+
+_BTNCR=Cross*
+_BTNCI=Circle*
+_BTNSQ=Square*
+_BTNTR=Triangle*
+
+_YES=Yes*
+_NO=No*
+
+_HLP1A=Search*
+_HLP1B=Download*
+_HLP1C=Song preview*
+_HLP1D=Insert text for search*
+_HLP1E=Add song to the download list*
+_HLP1F=Download song/list*
+_HLP1G=Previous page*
+_HLP1H=Next page*
+_HLP1I=Show the download list*
+
+_HLP2A=Created by*
+_HLP2B=more information on*
+
+_SKNAU=Skin author*
+_LNGAU=Lang author*
+
+_CRMSG1=The author is not liable for the misuse of this homebrew.*
+_CRMSG2=You might be violating copyright laws in your country or other countries.*
+_CRMSG3=With this in mind starts to use this homebrew at your own risk.*
